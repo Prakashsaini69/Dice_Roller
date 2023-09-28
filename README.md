@@ -1,3 +1,3 @@
-# first_app
+# Dice_Roller
 
-A new Flutter project.
+this is my second flutter project - Dice Roller
